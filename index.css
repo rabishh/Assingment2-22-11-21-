@@ -1,0 +1,13 @@
+
+ div{
+  display:flex;
+    justify-content: center;
+    align-items: center;
+    border:1px solid red;
+    background-image: url('https://images5.alphacoders.com/414/thumb-1920-414718.jpg');
+    height: 900px;
+    width:100%;
+}
+h1{
+    background-color: tomato;
+}
